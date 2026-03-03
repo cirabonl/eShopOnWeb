@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 274c8a39-9184-4bb6-aa3c-5437868a2c46
-  WEBAPP-NAME: eshoponweb-webapp-cirabonl-az400-testtesttest
+  WEBAPP-NAME: cirabonltest
 
 jobs:
   #Build, test and publish .net web project in repository
